@@ -41,7 +41,7 @@ Experienced Test Automation Engineer with over 12 years of expertise in automati
 ## Personal Projects / Portfolio
 
 - **[Capstone]((https://github.com/nitinsharmaqa/capstone_project))**:
--     Basic framework implementation for Orange HRM web application to automate and validate operations like Login/Logout and Search utility.
+     Basic framework implementation for Orange HRM web application to automate and validate operations like Login/Logout and Search utility.
 
 ---
 
@@ -56,7 +56,7 @@ Experienced Test Automation Engineer with over 12 years of expertise in automati
 
 ## Education
 
-- **BSc in Computer Science** - Gujarat University (1996 - 1999)
+- **BSc in Physics** - Gujarat University (1996 - 1999)
 
 ---
 
