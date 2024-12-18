@@ -22,45 +22,40 @@ Experienced Test Automation Engineer with over 12 years of expertise in automati
 
 ## Professional Experience
 
-### Cronos International
+### Cronos International, Brussels
 **Senior Test Automation Engineer** (2010 - 2019)  
 - Developed and maintained automated test scripts.
-- Led a team of 5 in implementing CI/CD practices.
+- Worked on tools like Selenium WD, Katalon for Functional Testing.
+- Used Silk performer and JMeter for Performance Testing.
 - Worked closely with the European Commission on major projects.
 
-### XYZ Technologies
+### Cygnet Infotech, Ahmedabad
 **Test Automation Engineer** (2006 - 2010)  
-- Created automated test scripts for mobile and web applications.
-- Performed manual testing to identify defects.
+- Created automated test scripts a web application.
+- Performed manual testing to identify defects maintaining Excel sheet.
 - Worked closely with developers to debug issues and verify fixes.
+- Interacted with clients on a regular basis.
 
 ---
 
-## Projects / Portfolio
+## Personal Projects / Portfolio
 
-- **[Project Title 1](https://github.com/yourusername/project1)**: Description of project and key achievements.
-- **[Project Title 2](https://github.com/yourusername/project2)**: Description of project and key achievements.
+- **[Capstone]([https://github.com/yourusername/project1](https://github.com/nitinsharmaqa/capstone_project))**:
+-     Basic framework implementation for Orange HRM web application to automate and validate operations like Login/Logout and Search utility.
 
 ---
 
 ## Certifications
 
-- ISTQB Certified Tester  
-- Other Relevant Certification
-
+- Selenium Webdriver with Java - StarAgile, 2024
+- ITIL V2 Service Level Management, Novel Vista, Mumbai - 2014
+- Prince 2 Foundation Level, Bizness Academy, Brussels - 2011
+- ISTQB Certified Tester, Pure Trainings, Noida - 2009
 ---
 
 ## Education
 
-- **MCA in Computer Applications** - Ahmedabad University (2002 - 2005)  
-- **BSc in Computer Science** - Gujarat University (1999 - 2002)
-
----
-
-## Achievements
-
-- Led the team that implemented an automation framework that reduced testing time by 40%.  
-- Recognized for excellence in test automation at the National Software Testing Conference.
+- **BSc in Computer Science** - Gujarat University (1996 - 1999)
 
 ---
 
