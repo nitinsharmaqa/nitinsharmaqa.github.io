@@ -51,6 +51,7 @@ Experienced Test Automation Engineer with over 12 years of expertise in automati
 - ITIL V2 Service Level Management, Novel Vista, Mumbai - 2014
 - Prince 2 Foundation Level, Bizness Academy, Brussels - 2011
 - ISTQB Certified Tester, Pure Trainings, Noida - 2009
+
 ---
 
 ## Education
